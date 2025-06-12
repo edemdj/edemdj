@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @edemdj
+- 👋 Hi, I’m @edemdj 
 - 👀 I’m interested in **web development**, **tech for social good**
-- 🌱 I’m currently learning **backend development with Python & Node.js**
+- 🌱 I’m currently learning **backend development with Python & Node.js**, and exploring **cloud deployment**.
 - 💞️ I’m looking to collaborate on **open source projects**, especially those solving **real-world problems**
 - 📫 How to reach me : www.linkedin.com/in/edem-djossou
 - 😄 Pronouns: **he/him**
